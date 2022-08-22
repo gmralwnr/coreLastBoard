@@ -11,9 +11,9 @@ SpringBoot - Maven 이용한 공지 게시판
 
 ## 0. 목차
 [1. 개요](#1-개요) </br>
-[2. 기술](#2-기술)
-[3. ERD Diagram MariaDB](#3-database)
-[4. 기능 구현](#4-기능 구현)
+[2. 기술](#2-기술) </br>
+[3. ERD Diagram MariaDB](#3-database) </br>
+[4. 기능 구현](#4-기능 구현) </br>
 - [x] Main 게시판 List , category ,Paging, Serach , arrayboard(정렬순서)
 BoardView  
 - [x] 시간 jsp로 쪼개기, 내용가져오기 
